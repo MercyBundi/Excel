@@ -40,7 +40,7 @@ The analysis was conducted using Excel features such as Pivot Tables and Charts:
 * Professionals and skilled workers showed stronger purchase tendencies
 * Certain regions had significantly higher bike adoption rates
 
-🛠 Tools Used
+## 🛠 Tools Used
 * Microsoft Excel
     * Pivot Tables
     * Charts & Graphs
